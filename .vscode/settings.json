@@ -1,0 +1,13 @@
+{
+    "coffeebreak.emails": [
+        "Jonasklopferbalu@gmail.com"
+    ],
+    "coffeebreak.mentions": {
+        "Jonas": {
+            "email": "Jonasklopferbalu@gmail.com"
+        }
+    },
+    "coffeebreak.sync": {
+        "command": "coffeebreak.todoist.sync"
+    }
+}
