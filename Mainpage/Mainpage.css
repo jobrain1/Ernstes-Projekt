@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;700&display=swap');
+
+body {
+    background-color: #111111;
+}
+
+.bxs-home {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    width: 53px;
+    height: 53px;
+}
+
+.bxs-home:hover {
+    border-color: white;
+    border-radius: 50%;
+    transition: ease-in-out .3s;
+    width: 53px;
+    height: 53px;
+}
+
+.heading {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.text001 {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Kanit", sans-serif;
+    color: white;
+}
+
+.text002 {
+    font-size: 20px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.start {
+    background-color: blue;
+    border-color: transparent;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    color: white;
+    height: 46.5px;
+    width: 210px;
+    font-size: medium;
+    border-radius: 25px;
+}
+
+.start:hover {
+    background-color: rgb(58, 58, 248);
+    height: 50px;
+    width: 240px;
+    font-size: large;
+    transition: ease-in-out all 0.3s;
+}
+
+.waring {
+    color: rgb(224, 224, 224);
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.text003 {
+    color: rgb(255, 255, 255);
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: 49px;
+    margin-left: 115.5px;
+}
+
+.text004 {
+    color: rgb(255, 255, 255);
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 117px;
+    
+}
+
+.image001 {
+    display: block;
+    float: right;
+    margin-left: 20px;
+}
+
+.image001:hover {
+    opacity: 50%;
+    transition: ease-in-out all 0.3s;
+}
