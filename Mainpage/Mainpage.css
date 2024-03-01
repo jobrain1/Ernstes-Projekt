@@ -2,6 +2,7 @@
 
 body {
     background-color: #111111;
+    color: white;
 }
 
 .bxs-home {
@@ -92,4 +93,44 @@ body {
 .image001:hover {
     opacity: 50%;
     transition: ease-in-out all 0.3s;
+}
+
+.discord {
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    height: 46.5px;
+    width: 210px;
+    border-color: transparent;
+    margin-left: 450px;
+}
+
+.discord:hover {
+    background-color: rgb(58, 58, 248);
+    font-size: large;
+    transition: ease-in-out all 0.3s;
+}
+
+.bxs-user {
+    width: 53px;
+    height: 53px;
+    color: white;
+    background-color: transparent;
+    border-color: transparent;
+    float: right;
+}
+
+.bxs-user:hover {
+    border-color: white;
+    border-radius: 50%;
+    transition: ease-in-out .3s;
+    width: 53px;
+    height: 53px;
+}
+
+.button-discord {
+    text-align: unset;
 }
